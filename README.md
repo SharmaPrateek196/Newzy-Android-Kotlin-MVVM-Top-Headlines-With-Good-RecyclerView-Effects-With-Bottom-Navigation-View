@@ -16,7 +16,7 @@ Following are some features of it -
 
 
 **P.S.**
-* The **apk** file is also added in this repository
+* The **apk** file is also added in **releases section** of this repo
 * **Stars** are always appreciated 😜
 
 
