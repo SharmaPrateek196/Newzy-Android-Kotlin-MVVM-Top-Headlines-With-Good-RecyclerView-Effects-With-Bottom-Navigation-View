@@ -10,6 +10,7 @@ Following are some features of it -
 
 * Coded totally in **Kotlin**
 * Implemented in **MVVM** design architecture/pattern
+* Used **LiveData, ViewModel, RecyclerView** etc Android Architecture Components
 * Used effects of **shrinking and fading** the cards when the recycler view gets scrolled up (https://youtu.be/hksVkhmCXSg)
 * Implemented **Bottom-Navigation-View**
 * Consumes APIs provides by NewsAPI site
