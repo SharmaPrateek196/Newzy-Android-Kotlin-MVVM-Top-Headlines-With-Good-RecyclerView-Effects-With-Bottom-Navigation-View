@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Newzy</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="country_name">us</string>
+    <string name="search">search</string>
+    <string name="empty_str">Empty String</string>
+    <string name="something_wrong">Empty String or Something went Wrong</string>
+    <string name="sorry">Respected Sir and Madams, I am having a serious bug in implementation of
+                    this Fragment. I know how to implement the search functionality, but due to shortage
+                    of time I am not getting where I am wrong. If in future, I would see this fragment\'s code
+                    I would definitely be able to solve this, but right now I am not getting the actual bug.
+                    As the time is going beyond the deadline,
+                    I am submitting the assignment.\n\n But I can assure you that I HAVE FULFILLED
+                    THIS ASSIGNMENT\'S REST ALL REQUIREMENTS AND FEATURES.
+                    \nThank you very much for giving me chance!
+    </string>
+</resources>

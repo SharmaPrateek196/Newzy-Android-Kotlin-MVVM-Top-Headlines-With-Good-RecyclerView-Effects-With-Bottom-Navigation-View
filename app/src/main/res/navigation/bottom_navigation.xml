@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@id/headlinesFragment">
+    <fragment
+        android:id="@+id/headlinesFragment"
+        android:name="com.example.newzy.ui.headlines.HeadlinesFragment"
+        android:label="fragment_headlines"
+        tools:layout="@layout/fragment_headlines" />
+    <fragment
+        android:id="@+id/sourcesFragment"
+        android:name="com.example.newzy.ui.sources.SourcesFragment"
+        android:label="fragment_sources"
+        tools:layout="@layout/fragment_sources" />
+</navigation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlinesFragment"
+        android:title="Headlines"
+        android:icon="@drawable/ic_headline_24"
+    />
+
+    <item
+        android:id="@+id/sourcesFragment"
+        android:title="Sources"
+        android:icon="@drawable/ic_source_24"
+    />
+
+</menu>
